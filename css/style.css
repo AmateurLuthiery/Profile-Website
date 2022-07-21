@@ -1,0 +1,74 @@
+/*
+COLOR PALETTE
+https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
+#F7FFF7 - almost white
+#343434 - dark gray - almost black
+#2F3061 - blue dark
+#FFE66D - yellow
+#A1C6D7 - blue light
+
+#2F3061 - blue dark
+73eedc--turquoise
+73c2be - maximum blue green
+474b24 army green
+f0c808 --jonquil
+*/
+
+#journey{
+    background-color: whitesmoke;
+}
+
+#principles{
+    background-color: #2F3061;
+}
+
+#achievements{
+
+}
+
+#hobbies{
+    background-color: #f0c808;
+}
+#principles>.container>.sectionheader{
+    color: #f7fff7;
+}
+
+.section h3{
+    text-align:center;
+}
+
+.journeyentry{
+    
+    padding: 10px;
+    margin-top:  10 px;
+    margin-bottom: 10px;;
+    border-color: slategray;
+    border-radius: 4px;
+}
+
+#principles{
+    padding-bottom: 30px;
+}
+.sectionheader{
+    padding-top:40px;
+    padding-bottom:20px;
+    text-align:center;
+}
+
+
+#headertext{
+    box-sizing: border-box;
+    text-align: left;
+    color:darkblue;
+}
+
+.grid-container{
+    grid-template-columns:  3fr 2fr;
+    grid-template-rows:  2fr 3fr;
+    display:grid;
+}
+
+.footer {
+    background-color: darkslategray;
+    color: white
+}
