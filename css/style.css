@@ -156,6 +156,19 @@ section .section-title {
     background-color: #474b24;
 
 }
+
+#carouselExampleCaptions{
+    padding: 20px;
+}
+
+#slideShow{
+    width:80%;
+}
+
+.carousel-inner{
+    margin:auto;
+}
+
 #principles>.container>.sectionheader{
     color: #f7fff7;
 }
@@ -197,5 +210,6 @@ section .section-title {
 
 .footer {
     background-color: darkslategray;
-    color: white
+    color: white;
+    padding-bottom: 5px;
 }
